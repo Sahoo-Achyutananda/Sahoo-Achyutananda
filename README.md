@@ -1,25 +1,21 @@
 <h1 align="center">Hi 👋, I'm Achyutananda Sahoo</h1>
 <p align="center">
-  🚀 M.Tech @ IIIT-H | 💻 Full Stack Developer | 🎯 GATE CS 2025 AIR 1814 | 🎨 Artist & Visualizer
+  M.Tech @ IIIT-H | Aspiring Full Stack Developer | GATE CS 2025 AIR 1814
 </p>
 
----
 
 ### 🧠 About Me
 - 🔭 I’m currently working on: [Sort It Out - Sorting Visualizer](https://sort-it-out-v4.netlify.app)
 - 🌱 I’m exploring pattern-based visualizations and frontend animations
-- 👯 I’m open to collaborations on open-source frontend tools or ML-UX hybrids
+- 👯 I’m open to collaborations on open-source frontend tools.
 - 🎯 GATE CS 2025 AIR 1814 (98.94 percentile)
 - 🥇 Best Outgoing Student, Saveetha School of Engineering
 
----
-
 ### 🧰 Tech Stack
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,react,html,css,bootstrap,mui,git,github,figma,photoshop,vscode" />
 </p>
 
----
 
 ### 📊 GitHub Stats
 
@@ -28,15 +24,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Sahoo-Achyutananda&theme=radical" alt="Streak Stats"/>
 </div>
 
----
 
 ### 🧮 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/SahooAchyutananda?theme=unicorn" alt="LeetCode Stats" />
+<img src = "https://leetcard.jacoblin.cool/Achyutananda_Sahoo?theme=dark&font=Roboto&ext=heatmap"/>
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/Achyutananda_Sahoo?theme=dark&font=Roboto&ext=heatmap) -->
 </p>
-
----
 
 ### 🌐 Connect with Me
 <p align="left">
@@ -44,7 +38,3 @@
   <a href="https://linkedin.com/in/achyutananda-sahoo"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://iamsahoo.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
-
----
-
-> “Craft code like art, and art like algorithms.” 🎨💻

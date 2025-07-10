@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Achyutananda Sahoo</h1>
+<h1 align="center">Hi 👋, I'm Achyutananda Sahoo
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sahoo-Achyutananda&label=Profile%20views&color=0e75b6&style=flat" alt="visitor counter" />
+</p>
+</h1>
 <p align="center">
   M.Tech @ IIIT-H | Aspiring Full Stack Developer | GATE CS 2025 AIR 1814
 </p>
@@ -38,3 +42,6 @@
   <a href="https://linkedin.com/in/achyutananda-sahoo"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://iamsahoo.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
+
+
+

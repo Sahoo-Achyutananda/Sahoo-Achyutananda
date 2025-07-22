@@ -4,7 +4,7 @@
 </p>
 </h1>
 <p align="center">
-  M.Tech @ IIIT-H | Aspiring Full Stack Developer | GATE CS 2025 AIR 1814
+  Aspiring Full Stack Developer | GATE CS 2025 AIR 1814
 </p>
 
 
